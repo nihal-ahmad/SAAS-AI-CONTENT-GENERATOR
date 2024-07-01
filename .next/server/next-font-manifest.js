@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/media/pyromaniac/1bcfed82-c9ff-4469-b177-7d2f357b8240/Projects/SASS-AI-CONTENT-GENERATOR/app/layout":["static/media/07a54048a9278940-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
