@@ -1,9 +1,9 @@
 This is a SASS Ai-Content-Generator Application for your daily content needs.
 
-#Dashboard:
+# Dashboard:
 ![](/public/Dashboard.png)
 
-#Home:
+# Home:
 ![](/public/Home.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
