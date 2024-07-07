@@ -1,4 +1,4 @@
-This is a SASS Ai-Content-Generator Application for your daily content needs.
+This is a SAAS Ai-Content-Generator Application for your daily content needs.
 
 # Dashboard:
 ![](/public/Dashboard.png)
