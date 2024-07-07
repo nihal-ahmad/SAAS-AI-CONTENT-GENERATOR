@@ -69,7 +69,7 @@ return (
       <div className="mr-4">
         <Wrench/>
       </div>
-      <div className="font-bold text-gray-700">
+      <div className="font-bold text-gray-700 line-clamp-3 text-xl">
         <p>This feature is currently under development.</p>
         <p>We're working hard to bring it to you soon!</p>
       </div>

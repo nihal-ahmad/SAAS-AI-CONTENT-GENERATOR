@@ -1,20 +1,26 @@
 {
   "node": {
-    "4174cdc6eecae0851e3b781888a5729c86583cff": {
+    "2ca1637f817f673a5918eebb8d4e2d6c3e944e34": {
       "workers": {
-        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmedia%2Fpyromaniac%2F1bcfed82-c9ff-4469-b177-7d2f357b8240%2FProjects%2FSASS-AI-CONTENT-GENERATOR%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions%2FinvalidateCache.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmedia%2Fpyromaniac%2F1bcfed82-c9ff-4469-b177-7d2f357b8240%2FProjects%2FSASS-AI-CONTENT-GENERATOR%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions%2FinvalidateCache.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/dashboard/content/[template-slug]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmedia%2Fpyromaniac%2F1bcfed82-c9ff-4469-b177-7d2f357b8240%2FProjects%2FSASS-AI-CONTENT-GENERATOR%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions%2FinvalidateCache.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/_not-found/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmedia%2Fpyromaniac%2F1bcfed82-c9ff-4469-b177-7d2f357b8240%2FProjects%2FSASS-AI-CONTENT-GENERATOR%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions%2FinvalidateCache.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmedia%2Fpyromaniac%2F1bcfed82-c9ff-4469-b177-7d2f357b8240%2FProjects%2FSAAS-AI-CONTENT-GENERATOR%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions%2FinvalidateCache.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/(auth)/sign-in/[[...sign-in]]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmedia%2Fpyromaniac%2F1bcfed82-c9ff-4469-b177-7d2f357b8240%2FProjects%2FSAAS-AI-CONTENT-GENERATOR%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions%2FinvalidateCache.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmedia%2Fpyromaniac%2F1bcfed82-c9ff-4469-b177-7d2f357b8240%2FProjects%2FSAAS-AI-CONTENT-GENERATOR%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions%2FinvalidateCache.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/billing/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmedia%2Fpyromaniac%2F1bcfed82-c9ff-4469-b177-7d2f357b8240%2FProjects%2FSAAS-AI-CONTENT-GENERATOR%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions%2FinvalidateCache.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/underdevelopment/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmedia%2Fpyromaniac%2F1bcfed82-c9ff-4469-b177-7d2f357b8240%2FProjects%2FSAAS-AI-CONTENT-GENERATOR%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions%2FinvalidateCache.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/_not-found/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmedia%2Fpyromaniac%2F1bcfed82-c9ff-4469-b177-7d2f357b8240%2FProjects%2FSAAS-AI-CONTENT-GENERATOR%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions%2FinvalidateCache.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/history/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fmedia%2Fpyromaniac%2F1bcfed82-c9ff-4469-b177-7d2f357b8240%2FProjects%2FSAAS-AI-CONTENT-GENERATOR%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions%2FinvalidateCache.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
         "app/page": "action-browser",
+        "app/(auth)/sign-in/[[...sign-in]]/page": "action-browser",
         "app/dashboard/page": "action-browser",
-        "app/dashboard/content/[template-slug]/page": "action-browser",
-        "app/_not-found/page": "action-browser"
+        "app/dashboard/billing/page": "action-browser",
+        "app/dashboard/underdevelopment/page": "action-browser",
+        "app/_not-found/page": "action-browser",
+        "app/dashboard/history/page": "action-browser"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "B5/+xMDSmxn7X4dmhmDBATeom6Y292WOneuof0GK0E4="
+  "encryptionKey": "/emS5uWtRVAqE5qc7pGl+H1s964D2KqamfNgvI4CdNA="
 }

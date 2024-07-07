@@ -1,4 +1,4 @@
-// File: /media/pyromaniac/1bcfed82-c9ff-4469-b177-7d2f357b8240/Projects/SASS-AI-CONTENT-GENERATOR/app/dashboard/layout.tsx
+// File: /media/pyromaniac/1bcfed82-c9ff-4469-b177-7d2f357b8240/Projects/SAAS-AI-CONTENT-GENERATOR/app/dashboard/layout.tsx
 import * as entry from '../../../../app/dashboard/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
