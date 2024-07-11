@@ -1,7 +1,4 @@
 {
-  "/(auth)/sign-in/[[...sign-in]]/page": "app/(auth)/sign-in/[[...sign-in]]/page.js",
-  "/dashboard/page": "app/dashboard/page.js",
-  "/dashboard/billing/page": "app/dashboard/billing/page.js",
-  "/dashboard/underdevelopment/page": "app/dashboard/underdevelopment/page.js",
-  "/dashboard/history/page": "app/dashboard/history/page.js"
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }
